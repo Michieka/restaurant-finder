@@ -123,7 +123,7 @@ Activate the theme in the WordPress admin dashboard.
 
 ### ✅ Access Instructions
 
-* React frontend: http://16.171.148.40/restaurant
+* React frontend: http://16.171.148.40:3000/restaurant
 * WordPress site: https://aurison-technologies.co.ke/simpleblog/
 * Node backend: runs on port 3001 (proxied via Nginx)
 
